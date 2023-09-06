@@ -1,0 +1,16 @@
+{
+    "name": "uff/smart",
+    "description": "Connects with smart api",
+    "autoload": {
+        "psr-4": {
+            "Uff\\Smart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uff",
+            "email": "morais_matheus@id.uff.br"
+        }
+    ],
+    "require": {}
+}
